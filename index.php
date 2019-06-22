@@ -1,5 +1,5 @@
 <?php
 
-   echo "resolvendo conflito"
+   echo "resolvendo conflito teste"
 
 ?>
